@@ -19,3 +19,4 @@ python app.py
 - 🤝 **Pair Shopping**: Shop in pairs with friends and get bundle discounts.
 - 🎯 **Gamified Cart**: Earn points while adding items to cart, redeemable at checkout.
 - 🧠 **AI Suggestion Bot**: A simple chatbot interface to help with shopping queries.
+https://e-commerce-2-u6fx.onrender.com/
