@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Spin & Win</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Welcome to the E-Commerce Website</h1>
+    <h2>🎁 Spin & Win</h2>
+
+    <canvas id="wheel" width="300" height="300"></canvas>
+    <br>
+    <button id="spinBtn">Spin Now</button>
+    <p id="resultText"></p>
+
+    <script src="script.js"></script>
+</body>
+</html>
